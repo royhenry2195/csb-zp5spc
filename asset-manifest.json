@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://royhenry2195.github.io/csb-zp5spc/static/css/main.9a6b9e00.chunk.css",
+    "main.js": "https://royhenry2195.github.io/csb-zp5spc/static/js/main.0eb667c7.chunk.js",
+    "main.js.map": "https://royhenry2195.github.io/csb-zp5spc/static/js/main.0eb667c7.chunk.js.map",
+    "runtime-main.js": "https://royhenry2195.github.io/csb-zp5spc/static/js/runtime-main.381d1254.js",
+    "runtime-main.js.map": "https://royhenry2195.github.io/csb-zp5spc/static/js/runtime-main.381d1254.js.map",
+    "static/js/2.66b8bc4b.chunk.js": "https://royhenry2195.github.io/csb-zp5spc/static/js/2.66b8bc4b.chunk.js",
+    "static/js/2.66b8bc4b.chunk.js.map": "https://royhenry2195.github.io/csb-zp5spc/static/js/2.66b8bc4b.chunk.js.map",
+    "index.html": "https://royhenry2195.github.io/csb-zp5spc/index.html",
+    "static/css/main.9a6b9e00.chunk.css.map": "https://royhenry2195.github.io/csb-zp5spc/static/css/main.9a6b9e00.chunk.css.map",
+    "static/js/2.66b8bc4b.chunk.js.LICENSE.txt": "https://royhenry2195.github.io/csb-zp5spc/static/js/2.66b8bc4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.381d1254.js",
+    "static/js/2.66b8bc4b.chunk.js",
+    "static/css/main.9a6b9e00.chunk.css",
+    "static/js/main.0eb667c7.chunk.js"
+  ]
+}
